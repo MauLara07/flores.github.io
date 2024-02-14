@@ -21,6 +21,39 @@ body {
 }
 
 
+.card{
+  font-family: "Nunito", sans-serif;
+  position: absolute;
+  margin-top: 35rem;
+  top: 100px;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  
+}
+
+.cardh1{
+  font-family: "Nunito", sans-serif;
+  color: #fff;
+  font-size: 5rem;
+}
+.cardp{
+  font-family: "Nunito", sans-serif;
+  color: #fff;
+  font-size: 1rem;
+  text-align: justify;
+
+}
+
+/* @media only screen and (width: 428px) and (height: 926px) and (-webkit-device-pixel-ratio: 3) {
+  .card {
+      font-size: x-large;
+      text-align: center;
+      
+  }
+} */
+
+
+
 
 .night {
   position: fixed;
